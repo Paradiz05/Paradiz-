@@ -1,0 +1,25 @@
+# ОС
+.DS_Store
+Thumbs.db
+
+# Редакторы
+.idea/
+.vscode/
+*.swp
+
+# Окружение и секреты
+.env
+.env.*
+!.env.example
+
+# Зависимости и сборка
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+
+# Логи
+*.log

@@ -24,8 +24,8 @@
 ## Начало работы
 
 ```bash
-git clone https://github.com/geesberg05-glitch/Paradiz.git
-cd Paradiz
+git clone https://github.com/Paradiz05/Paradiz-.git
+cd Paradiz-
 ```
 
 _Инструкции по установке и запуску будут добавлены по мере развития проекта._
